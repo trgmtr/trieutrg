@@ -8,7 +8,10 @@ layout: default
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-I am a Master's and Ph.D Integrated student in Computer Science and Engineering (CSE) in the [Department of Computer Science and Artificial Intelligence (Dept. CSAI](https://cse.dongguk.edu/main) at [Dongguk University](http://www.dongguk.ac.kr/), Seoul, South Korea. I am also a research assistant at the [Computational Imaging Lab. (CILab)](https://cilab.dongguk.edu/) under the supervision of [Prof. Chul Lee](https://cilab.dongguk.edu/cv.html).
+I am a Master's and Ph.D Integrated student in Computer Science and Engineering (CSE) in the [Department of Computer Science and Artificial Intelligence (Dept. CSAI)](https://cse.dongguk.edu/main) at [Dongguk University](http://www.dongguk.ac.kr/), Seoul, South Korea. 
+
+I am also a research assistant at the [Computational Imaging Lab. (CILab)](https://cilab.dongguk.edu/) under the supervision of [Prof. Chul Lee](https://cilab.dongguk.edu/cv.html).
+
 Before that I am a student at HCMC University of Technology and Education and a data scientist at FPT .
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
