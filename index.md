@@ -14,7 +14,7 @@ Before that I am a student at HCMC University of Technology and Education.
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Education
-- **B.E.**, Information Technology, Aug. 2025
+- **B.Eng.**, Information Technology, Aug. 2025
     - HCMC University of Technology and Education, Vietnam
     - Degree classification: Distinction
     - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
