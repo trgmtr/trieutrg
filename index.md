@@ -31,17 +31,15 @@ My name is Truong Minh Trieu, born in 2003 in Dien Ban, Quang Nam Province (now 
     - Degree classification: Distinction
     - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
     - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems
-
-
+<br>
 - **High School Diploma** , May. 2021
-    - Nguyen Duy Hieu High School, Quang Nam province, Vietnam
-    - Member of the school's gifted Biology team
-    - The second prize at the provincial-level gifted student competition
-
-
+    - Nguyen Duy Hieu High School, Quang Nam province, Vietnam.
+    - Member of the school's gifted Biology team.
+    - The second prize at the provincial-level gifted student competition.
+<br>
 - **Secondary School Diploma** , May. 2021
-    - Tran Quy Cap Secondary School, Quang Nam province, Vietnam
-    - Member of the school's gifted Chemistry team
+    - Tran Quy Cap Secondary School, Quang Nam province, Vietnam.
+    - Member of the school's gifted Chemistry team.
 
 ## Research Interest
 
