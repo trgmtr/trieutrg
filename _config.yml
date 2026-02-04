@@ -1,5 +1,5 @@
 title: minh trieu t., dl researcher
-url: "https://mtrvn.github.io"
+url: "https://trgmtr.github.io"
 baseurl: "/trieutrg"
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/mtrvn"
-footer_text: "2025 by minh trieu t."
+footer_url: "https://github.com/trgmtr"
+footer_text: "2026 by minh trieu t."
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/trieutrg/"
+   link: "about"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"

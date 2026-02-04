@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [trieutm.hcmute@gmail.com](mailto:trieutm.hcmute@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [(+84)-349.470.501](tel:(+84)-349.470.501)
 
 ---
 
@@ -21,6 +21,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
+1. [LinkedIn](www.linkedin.com/in/trieutr)
 2. [Twitter](#)
 3. [Google+](#)
