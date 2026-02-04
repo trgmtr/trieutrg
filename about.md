@@ -53,7 +53,7 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 ## Publications
 
 ### Journal Papers
-1. **Truong Minh Trieu**, Hoang Van Dung: [Skeleton-based multi-person action recognition towards real-world violence detection](https://doi.org/10.1016/j.engappai.2025.111987), Engineering Applications of Artificial Intelligence, 161, 111987. 
+1. **Truong Minh Trieu**, Hoang Van Dung: [Skeleton-based multi-person action recognition towards real-world violence detection](https://doi.org/10.1016/j.engappai.2025.111987), Engineering Applications of Artificial Intelligence, 161, 111987. (SCIE Q1, Impact Factor 8.0, H-Index 149)
 
 ---
 
