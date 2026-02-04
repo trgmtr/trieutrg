@@ -16,12 +16,30 @@ Before that I am a student at HCMC University of Technology and Education and a 
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Education
+## Work Experience
 - **B.Eng.**, Information Technology, Aug. 2025
-    - HCMC University of Technology and Education, Vietnam
+
+
+
+My name is Truong Minh Trieu, born in 2003 in Dien Ban, Quang Nam Province (now Dien Ban Tay Commune, Da Nang City). I completed my lower secondary education at Tran Quy Cap Secondary School, followed by my upper secondary education at Nguyen Duy Hieu High School. In my final year of high school, I represented my school in the provincial gifted student examination and won second prize.
+
+
+## Education
+- **Bachelor of Engineering (B.Eng.)**, Information Technology, Aug. 2025
+    - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam
+    - **Admitted through early and priority admission.**
     - Degree classification: Distinction
     - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
     - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems
+
+- **High School Diploma** , May. 2021
+    - Nguyen Duy Hieu High School, Quang Nam province, Vietnam
+    - Member of the school's gifted Biology team
+    - The second prize at the provincial-level gifted student competition
+
+- **Secondary School Diploma** , May. 2021
+    - Tran Quy Cap Secondary School, Quang Nam province, Vietnam
+    - Member of the school's gifted Chemistry team
 
 ## Research Interest
 
