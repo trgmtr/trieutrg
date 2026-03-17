@@ -13,12 +13,18 @@ Currently, I am a Master's and Ph.D Integrated student in Computer Science and E
 Before that, I graduated from HCMC University of Technology and Education and worked as a Data Scientist at FPT Telecom Hanoi.
 
 ## Work Experience
+- **Master’s Researcher**, Mar. 2026 -
+    - Computational Imaging Laboratory (CILab).
+    - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
+    - Supervisor: Associate Professor Chul Lee.
 - **Data Scientist**, Aug. 2025 – Oct. 2025
-    - Data Team - FTEL Sandbox Department | FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
+    - Data Team - FTEL Sandbox Department.
+    - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
     - Summary: Research, read papers, implement models, improve and optimize, focusing on Natural Language Processing. Focus on Deep Learning architectures and models for log data (syslog). Implement Deep Learning architectures to analyze log semantics and focus on tasks such as incident prediction and abnormal log detection. Focus on Deep Learning network architectures based on Transformer and BERT, such as LogBERT.
 
 - **Software Engineering Intern**, , May. 2023 – Aug. 2023
-    - EBS.RTM Team | FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
+    - EBS.RTM Team.
+    - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
     - Summary: Worked as a full-stack software engineer. Developed, maintained, and optimized backend systems, including APIs for both web platforms and mobile applications. Implemented user interfaces for web application pages based on design specifications.
 
 - **Research Assistant**, May. 2023 – Aug. 2023
@@ -29,12 +35,17 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 
 
 ## Education
+- **Master’s and Ph.D Integrated student**, Computer Science and Engineering major, Mar. 2026 -
+    - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
+    - **Scholarship for Research and Development (SRD)**
+    - Supervisor: Associate Professor Chul Lee.
+
 - **Bachelor of Engineering (B.Eng.)**, Information Technology, Aug. 2025
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - **Admitted through early and priority admission.**
     - Degree classification: Distinction.
-    - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
     - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems.
+    - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
 <br>
 - **High School Diploma** , May. 2021
     - Nguyen Duy Hieu High School, Quang Nam province, Vietnam.
